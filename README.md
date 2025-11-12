@@ -12,6 +12,9 @@ Harjoitusprojekti (PHP, XAMPP, MySQL).
 - Muista säätää tarvittaessa `db.php`-tiedostossa oikeat tunnukset.
 
 ## Huomio
-Tämä on oppimisharjoitus (Git, GitHub, versionhallinta).
+Tämä on oppimisharjoitus (Git, GitHub, versionhallinta). 
+
+## Huom,Huom
+Testi visual studion ison päivityksen jälkeen...12.11.2025
 
 
