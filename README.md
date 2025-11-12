@@ -16,5 +16,5 @@ Tämä on oppimisharjoitus (Git, GitHub, versionhallinta).
 
 ## Huom,Huom
 Testi visual studion ison päivityksen jälkeen...12.11.2025
-
+ja lisää testiä.
 
